@@ -1,8 +1,8 @@
-import img2 from './assets/Portfolio.png';
-import img3 from './assets/Blog.png';
-import img4 from './assets/CRUD.png';
-import img5 from './assets/Dictionary.png';
-import img6 from './assets/Cart.png';
+import img2 from './assets/Portfolio.PNG';
+import img3 from './assets/Blog.PNG';
+import img4 from './assets/CRUD.PNG';
+import img5 from './assets/Dictionary.PNG';
+import img6 from './assets/Cart.PNG';
 import dash from './assets/Dashboard.JPG';
 
 
