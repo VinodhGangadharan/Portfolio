@@ -1,4 +1,3 @@
-import img1 from './assets/CashFlow.png';
 import img2 from './assets/Portfolio.png';
 import img3 from './assets/Blog.png';
 import img4 from './assets/CRUD.png';
